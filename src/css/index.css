@@ -27,3 +27,20 @@ h1 {
   background-color: #000 !important;
   border-radius: 10px;
 }
+
+.controls {
+  background: #333;
+  color: #fff;
+  width: 60%;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.controls .btn {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
