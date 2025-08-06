@@ -17,3 +17,13 @@ body {
   margin:0;
 }
 
+h1 {
+  color: #fff;
+}
+
+.screen {
+  cursor: pointer;
+  width: 60%;
+  background-color: #000 !important;
+  border-radius: 10px;
+}
